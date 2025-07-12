@@ -13,7 +13,7 @@
 - Clone your application's code repository onto the EC2 instance:
     
     ```bash
-    git clone https://github.com/N4si/DevSecOps-Project.git
+    https://github.com/Paras116255/Netflix-DevSecOps-NewProject.git
     ```
     
 
